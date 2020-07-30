@@ -4,7 +4,7 @@ Python programlama dilinde hiyerarşik olarak yani gömülü olarak bir çok nes
 
 **Repository İçeriği:** <br>
 1. [Class(Sınıf) Nedir?](https://github.com/Burakkylmz/Object_Oriented_Programming/blob/master/OOP%20Lab-1.ipynb) <br>
-2. [Constructor (__init__())](https://github.com/Burakkylmz/Object_Oriented_Programming/blob/master/OOP%20Lab-2.ipynb) <br>
+2. [Constructor](https://github.com/Burakkylmz/Object_Oriented_Programming/blob/master/OOP%20Lab-2.ipynb) <br>
 
 Kaynaklar:
 1. https://en.wikipedia.org/wiki/Object-oriented_programming
