@@ -2,7 +2,8 @@
 
 Python programlama dilinde hiyerarşik olarak yani gömülü olarak bir çok nesne bulunmaktadır. Lakin bu nesneler ile istediğimiz uygulamaları geliştirmemiz pek mümkün değildir. Object oriented programming, geliştirmek istediğimiz uygulamalarda ihtiyacımız olan nesneleri bize tanımlama imkanı ve yarattığımız bu objelere özellikler ve yetenekler kazandırma imkanı vermektedir. Bu depoda nesne yönelimli programlamanın yazılım geliştirme döngümüze soktuğu yaklaşımlar ile ilgili örnekler bulabileceksiniz.
 
-1. Sınıf Nedir?
+**Repository İçeriği:** <br>
+1. [Sınıf Nedir?]() <br>
 
 Kaynaklar:
 1. https://en.wikipedia.org/wiki/Object-oriented_programming
